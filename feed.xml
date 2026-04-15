@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Céramique Paris</title>
+  <link href="https://ceramiqueparis.com/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ceramiqueparis.com/" rel="alternate" type="text/html"/>
+  <id>https://ceramiqueparis.com/</id>
+  <author>
+    <name>Céramique Paris</name>
+  </author>
+  <subtitle>La céramique à Paris — ateliers, galeries, cours, créateurs et tendances de la scène argile parisienne</subtitle>
+</feed>
